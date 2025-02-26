@@ -1,0 +1,23 @@
+{
+  "name": "lovelace-background-video",
+  "version": "1.0.0",
+  "description": "![Lovelace Background Video](img/lovelace-background-video-example.gif)",
+  "main": "dist/background-video.js",
+  "scripts": {
+    "build": "node esbuild.config.mjs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ralves87/lovelace-background-video.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ralves87/lovelace-background-video/issues"
+  },
+  "homepage": "https://github.com/ralves87/lovelace-background-video#readme",
+  "devDependencies": {
+    "esbuild": "^0.25.0"
+  }
+}
